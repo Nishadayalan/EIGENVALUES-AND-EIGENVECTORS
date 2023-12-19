@@ -25,7 +25,7 @@ print("Eigen values are {} and Eigen Vectors are {}".format(values,vectors))
 ```
 
 ## Output:
-![Alt text](eigval.png)
+![Alt text](ex44.png)
 
 
 ## Result:
